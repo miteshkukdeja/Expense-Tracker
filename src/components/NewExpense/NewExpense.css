@@ -25,8 +25,8 @@
   
   .new-expense button:hover,
   .new-expense button:active {
-    background-color: #510674;
-    border-color: #510674;
+    background-color: #b66dd7;
+    border-color: #b66dd7;
   }
   
   .new-expense button.alternative {
